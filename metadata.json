@@ -1,0 +1,6 @@
+{
+  "name": "Sunnyvale Neighborhood Adventure",
+  "description": "An interactive neighborhood simulation game featuring policemen, mail carriers, emergency vehicles, stores, schools, churches, friendly pets, and buzzing insects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
